@@ -11,7 +11,7 @@ Sou um estudante de ciências da computação, apaixonado em tecnologia, inovaç
 
 ## 📊 GitHub Stats
 
-![SeuNome's GitHub stats](https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=radical)
+![Rennã Sag GitHub stats](https://github-readme-stats.vercel.app/api?username=RennaSag&show_icons=true&theme=radical)
 
 ## 📫 Onde me encontrar
 
