@@ -11,9 +11,12 @@ Sou um estudante de ciências da computação, apaixonado em tecnologia, inovaç
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
 
+
 ## 📊 GitHub Stats
 
 ![Rennã Sag GitHub stats](https://github-readme-stats.vercel.app/api?username=RennaSag&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuario&layout=compact&theme=tokyonight)
+
 
 ## 📫 Onde me encontrar
 
