@@ -1,16 +1,18 @@
-## Hi there 👋
+# 👋 Olá! Eu sou Rennã Sag, bem vindo ao meu perfil.
 
-<!--
-**RennaSag/RennaSag** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou um estudante de ciências da computação, apaixonado em tecnologia, inovação e código limpo. Sempre buscando aprender algo novo e contribuir com o avanço científico!
 
-Here are some ideas to get you started:
+## 🚀 Tecnologias e Ferramentas que uso
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
+![Kotlin](https://img.shields.io/badge/-Kotlin-0095D5?style=flat-square&logo=kotlin&logoColor=white)
+![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![C](https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c&logoColor=white)
+
+## 📊 GitHub Stats
+
+![SeuNome's GitHub stats](https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=radical)
+
+## 📫 Onde me encontrar
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)]([https://linkedin.com/in/seu-usuario](https://www.linkedin.com/in/rennã-sag-1aa34b183/))
