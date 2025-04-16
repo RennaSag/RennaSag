@@ -20,4 +20,4 @@ Sou um estudante de ciências da computação, apaixonado em tecnologia, inovaç
 
 ## 📫 Onde me encontrar
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)]([https://linkedin.com/in/rennã-sag](https://www.linkedin.com/in/rennã-sag-1aa34b183/))
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rennã-sag-1aa34b183/)
