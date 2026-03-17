@@ -2,7 +2,11 @@
 
 Bem-vindo ao meu perfil.
 
-Sou estudante de Ciência da Computação, apaixonado por tecnologia, inovação e código limpo. Estou sempre em busca de aprender algo novo e contribuir com o desenvolvimento de soluções relevantes.
+Sou estudante de Ciência da Computação, com grande interesse em desenvolvimento de software, arquitetura de sistemas e resolução de problemas complexos. Tenho afinidade com raciocínio lógico e matemática, áreas que influenciam diretamente minha forma de pensar e construir soluções eficientes.
+
+Atualmente, estou direcionando meus estudos e projetos para o ecossistema Java, com foco no desenvolvimento de APIs REST, integração de sistemas e construção de aplicações robustas voltadas para o mercado. Também venho explorando frameworks visuais para aplicações desktop, buscando aliar desempenho, organização de código e boa experiência de usuário.
+
+Tenho interesse especial em entender como sistemas escalam, como dados podem ser processados de forma eficiente e como boas práticas de engenharia de software impactam diretamente na qualidade e manutenibilidade de um projeto.
 
 ---
 
@@ -13,14 +17,6 @@ Sou estudante de Ciência da Computação, apaixonado por tecnologia, inovação
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 ![C](https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-
----
-
-## Estatísticas do GitHub
-
-![Rennã Sag GitHub stats](https://github-readme-stats.vercel.app/api?username=RennaSag&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RennaSag&layout=compact&theme=tokyonight)
 
 ---
 
