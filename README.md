@@ -10,23 +10,23 @@ Tenho afinidade com raciocínio lógico e matemática, o que influencia diretame
 
 ## O que eu faço
 
-- **Sistemas sob medida** — aplicações web e desktop para gestão, controle interno e atendimento, pensadas para a rotina da empresa, e não o contrário.
-- **APIs e integração de sistemas** — conecto ferramentas que não conversam entre si (ERPs, planilhas, plataformas de pagamento, serviços externos) para eliminar retrabalho e digitação manual.
-- **Automação de processos** — transformo tarefas repetitivas em fluxos automáticos, liberando a equipe para o que realmente importa.
-- **Organização e uso de dados** — modelagem de bancos de dados, relatórios e informações que ajudam o gestor a decidir com base em números, não em achismo.
+- **Sistemas sob medida** - aplicações web e desktop para gestão, controle interno e atendimento, pensadas para a rotina da empresa, e não o contrário.
+- **APIs e integração de sistemas** - conecto ferramentas que não conversam entre si (ERPs, planilhas, plataformas de pagamento, serviços externos) para eliminar retrabalho e digitação manual.
+- **Automação de processos** - transformo tarefas repetitivas em fluxos automáticos, liberando a equipe para o que realmente importa.
+- **Organização e uso de dados** - modelagem de bancos de dados, relatórios e informações que ajudam o gestor a decidir com base em números, não em achismo.
 
 ## Como eu trabalho
 
-1. **Entender o negócio** — conversa para mapear o processo atual, os gargalos e o objetivo.
-2. **Propor a solução** — escopo claro, prazo realista e foco no que traz retorno primeiro.
-3. **Desenvolver com qualidade** — código organizado, testado e fácil de manter, para a solução crescer junto com a empresa.
-4. **Acompanhar depois da entrega** — suporte, ajustes e melhorias contínuas.
+1. **Entender o negócio** - conversa para mapear o processo atual, os gargalos e o objetivo.
+2. **Propor a solução** - escopo claro, prazo realista e foco no que traz retorno primeiro.
+3. **Desenvolver com qualidade** - código organizado, testado e fácil de manter, para a solução crescer junto com a empresa.
+4. **Acompanhar depois da entrega** - suporte, ajustes e melhorias contínuas.
 
 ## Foco técnico
 
 Meu principal ecossistema é o **Java** (com foco em APIs REST) e **PHP**, integração de sistemas e aplicações robustas voltadas para o mercado. Também trabalho com frameworks visuais para aplicações desktop, buscando aliar desempenho, organização de código e boa experiência de usuário.
 
-Tenho interesse especial em como sistemas escalam, como dados podem ser processados de forma eficiente e como boas práticas de engenharia de software impactam a qualidade e a manutenibilidade de um projeto — porque, para a empresa, isso significa menos custo e menos problema no longo prazo.
+Tenho interesse especial em como sistemas escalam, como dados podem ser processados de forma eficiente e como boas práticas de engenharia de software impactam a qualidade e a manutenibilidade de um projeto - porque, para a empresa, isso significa menos custo e menos problema no longo prazo.
 
 ---
 
